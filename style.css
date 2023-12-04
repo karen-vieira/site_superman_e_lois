@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+}
+.topo{
+  width: 100%;
+  background-color: #4710c1;
+  color: #fff;
+  padding: 20px 0;
+  font-size: 22px;
+  font-family: sans-serif;
+}
+.secao{
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+.secao h2{
+  
+}
+.secao p{
+
+}
+
+span a{
+background-color: aliceblue;
+border-radius: 40px;
+text-align: center;
+text-decoration: none;
+font-size: 15px;
+}
